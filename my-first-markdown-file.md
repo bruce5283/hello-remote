@@ -5,4 +5,5 @@ I need to learn:
 * markdown syntax
 * python
 * using Git and Github
-'console.writeline("Hellow Markdown!");'
+
+'console.writeline("Hello Markdown!");'
